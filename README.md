@@ -32,9 +32,11 @@ Info:
 
 <details>
   <summary>🖼 Preview</summary>
+  
 ![Before](https://github.com/sjain882/Excel-VBA-Macros/blob/main/.github/Previews/Embed%20Image%20Links/Before.png?raw=true)
-***
+
 ![After](https://github.com/sjain882/Excel-VBA-Macros/blob/main/.github/Previews/Embed%20Image%20Links/After.png?raw=true)
+
 </details>
 
 ### Google Active Cell
