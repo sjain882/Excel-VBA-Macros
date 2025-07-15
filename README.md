@@ -10,6 +10,8 @@ Info:
 
 - Works with URLs not ending in image extension, e.g, discord image link with token query param
 
+- If you add rows/columns around imported images, the embedded images move automatically
+
 - Saves the image with the document, instead of links which can go down
 
 - WARNING: No undo available! Duplicate your file before proceeding
