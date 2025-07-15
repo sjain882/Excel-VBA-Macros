@@ -1,5 +1,7 @@
 Macros created by me, unless otherwise specified.
 
+# Macros
+
 ### Embed Image Links
 
 Info:
@@ -88,6 +90,30 @@ Info:
   <summary>💼 Archived macros</summary>
 None
 </details>
+
+***
+
+# Other
+
+### How to print spreadsheet as single-page zoomable PDF?
+
+1. File > Print > Page Setup
+
+2. Scaling > Fit To > 1 pages wide by 1 tall
+
+3. OK
+
+4. Select Portrait/Landscape as appropriate
+
+5. Print
+
+### How to print spreadsheet with working Hyperlinks?
+
+Normal File > Print will not work - you need to use Export.
+
+1. First, Print to PDF with above instructions to save print layout
+
+2. Then, File > Export > Create PDF/XPS document
 
 ***
 
