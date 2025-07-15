@@ -8,6 +8,8 @@ Info:
 
 - Can be re-run over cells to "fill in gaps" non-destructively
 
+- Works with URLs not ending in image extension, e.g, discord image link with token query param
+
 - Saves the image with the document, instead of links which can go down
 
 - WARNING: No undo available! Duplicate your file before proceeding
@@ -32,7 +34,7 @@ Info:
 
 <details>
   <summary>🖼 Preview</summary>
-  
+
 ![Before](https://github.com/sjain882/Excel-VBA-Macros/blob/main/.github/Previews/Embed%20Image%20Links/Before.png?raw=true)
 
 ![After](https://github.com/sjain882/Excel-VBA-Macros/blob/main/.github/Previews/Embed%20Image%20Links/After.png?raw=true)
