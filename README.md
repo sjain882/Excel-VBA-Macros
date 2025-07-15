@@ -66,7 +66,7 @@ Info:
 
 2. Modules > Module1 (in tree on left side)
 
-3. Paste (Declarations).txt in Declarations section:
+3. Paste (Declarations).vba in Declarations section:
 
 ![Declarations](https://github.com/sjain882/Excel-VBA-Macros/blob/main/.github/Guides/Google%20Active%20Cell/Declarations.png?raw=true)
 
@@ -74,7 +74,7 @@ Info:
 
 5. Under Macro Name type either `FlickrIt` / `GoogleIt` / `GoogleImagesIt` then click Create to create new macro section for the relevant function
 
-6. New section with Sub skeleton will be created. Replace entire contents of this section with the contents of the relevant .txt containing the function's code
+6. New section with Sub skeleton will be created. Replace entire contents of this section with the contents of the relevant .vba containing the function's code
 
 7. Save and close VBA Editor
 
