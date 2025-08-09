@@ -117,6 +117,16 @@ Normal File > Print will not work - you need to use Export.
 
 ***
 
+# Bonus
+
+If you were browsing a lot of Flickr images then opened their direct links to paste into a sheet (with Embed Image Links), but want to go back and get the original full webpage link so you can credit the author, use this bookmarklet:
+
+```javascript
+javascript:const%20fid%20%3D%20(%2F%5Ehttps%3F%3A%5C%2F%5C%2F(farm%7Clive)%5Cd*%5C.static%5C.%3Fflickr%5C.com%5C%2F%5Cd%2B%5C%2F(%3F%3CimageId%3E%5Cd%2B)_%5B0-9a-f%5D%2B%5B%5E.%5D*%5C.%2Fiu).exec(document.URL)%3F.groups.imageId;%0Aif%20(fid)%20{%0A%20%20%20%20window.location%20%3D%20%60https%3A%2F%2Fflickr.com%2Fphoto.gne%3Fid%3D%24{fid}%60;%0A}%20else%20{%0A%20%20%20%20alert(%22Sorry%2C%20this%20is%20not%20a%20Flickr%20static%20image.%22);%0A}
+```
+
+***
+
 # External
 
 *(Macros & resources)*
